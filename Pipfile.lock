@@ -1,0 +1,31 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "0256c4df79dd04bdbfc7560e259c98148e130fcaacc3b80f46dbf97633e023b9"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pyopengl": {
+            "hashes": [
+                "sha256:11ad32c7bde7ea0ffb7a94dd552c639ca72376982a8dd6fe0c092d2002a4ca6e",
+                "sha256:36b4ac28220e4bfa29e5557525ad2967ca74558a94bccea48864fc742b18db11",
+                "sha256:4107ba0d0390da5766a08c242cf0cf3404c377ed293c5f6d701e457c57ba3424",
+                "sha256:5868c326c246f4e75834a55bd604a11cb2a14a72cefadc5efbcac018938a01af"
+            ],
+            "path": "./PyOpenGL-3.1.5-cp38-cp38-win_amd64.whl",
+            "version": "==3.1.5"
+        }
+    },
+    "develop": {}
+}
